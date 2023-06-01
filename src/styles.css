@@ -5,8 +5,8 @@ body {
   font-family: "Lato", sans-serif;
 }
 .card {
-  padding: 40px 40px 0;
-  margin-top: 40px;
+  padding: 40px 40px 40px;
+  margin: 40px 0 24px;
 }
 h1 {
   font-size: 80px;
